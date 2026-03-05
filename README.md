@@ -9,7 +9,7 @@
 **Backend:**
 - ☕ Java 17, Spring Boot, Spring Cloud
 - 🗄️ PostgreSQL, Hibernate/JPA, Redis
-- 📨 Apache Kafka, RabbitMQ
+- 📨 Apache Kafka
 - 🔐 Spring Security, OAuth2
 
 **DevOps & Tools:**
@@ -24,9 +24,9 @@
 
 ### 📌 Избранные проекты
 
-- 🔹 [**User Management Microservices**](https://github.com/Lanctole/UserCRUD) - Платформа на Spring Cloud с Kafka и Docker
-- 🔹 [**Java Chat Application**](https://github.com/Lanctole/java-chat) - Многопользовательский чат с GUI
-- 🔹 [**Media-Roulette**](https://github.com/Lanctole/Roulette) -  Blazor+ASP.NET Core-приложение для случайного выбора медиа-контента.
+- 🔹 [**User Management Microservices** | *Java, Spring Boot, Docker, PostgreSQL*](https://github.com/Lanctole/UserCRUD) - Микросервисная архитектура с асинхронной обработкой событий на Spring Cloud с Kafka и Docker
+- 🔹 [**Java Chat Application** | *Java, Sockets, Multithreading*](https://github.com/Lanctole/java-chat) - Многопользовательский чат с GUI.
+- 🔹 [**Media-Roulette** | *C#, Blazor, PostgreSQL, Docker, NGINX*](https://github.com/Lanctole/Roulette) -  Веб-приложение с авторизацией и работой с БД. Полностью настроил деплой через Docker и обратный прокси (NGINX).
 
 ### 📫 Контакты
 

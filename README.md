@@ -7,13 +7,13 @@
 ### 🛠️ Технологический стек
 
 **Backend:**
-- ☕ Java 17, Spring Boot, Spring Cloud
+- ☕ Java, Spring Boot, Spring Cloud
 - 🗄️ PostgreSQL, Hibernate/JPA, Redis
 - 📨 Apache Kafka
 - 🔐 Spring Security, OAuth2
 
 **DevOps & Tools:**
-- 🐳 Docker, Kubernetes
+- 🐳 Docker, Kubernetes, Lens
 - 🔧 Jenkins, TeamCity
 - 📊 Prometheus, Grafana
 - 🔍 ELK Stack
